@@ -1,0 +1,6 @@
+{
+  "name": "D&T Corp South Africa",
+  "description": "Everyday tech and backup power online store for South Africa with nationwide delivery and secure online checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
